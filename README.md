@@ -4,7 +4,7 @@
 让每个组件都拥有AppDelegate的生命周期  感觉自己就在AppDelegate里面
 
 - 单个Class搞定一切
-- 对主工程毫无侵入性
+- 对主工程毫无侵入性
 - 原生的AppDelegate代码体验 提示
 
 
